@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my profile. I am a digital designer and motion designer currently based in Oslo, Norway.
+
+Feel free to contact me with any questions or inquiries.
+
+Cheers, Christian
+
 <!--
 **christianvazquezhope/christianvazquezhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
