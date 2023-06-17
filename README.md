@@ -6,7 +6,7 @@ Digital designer and motion designer
 * 🌍  I'm based in Oslo
 * 🖥️  See my portfolio at [cvh-portfolio.netlify.com](http://cvh-portfolio.netlify.com)
 * ✉️  You can contact me at [christian@digtihings.no](mailto:christian@digtihings.no)
-* 🚀  I'm currently working on [Inflow Media](http://dev.vookal.no/inflow-v2)
+* 🚀  I'm currently working on a new site for [Inflow Media](http://dev.vookal.no/inflow-v2)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on digital projects
 
