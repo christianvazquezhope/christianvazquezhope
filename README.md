@@ -8,7 +8,7 @@ Digital designer and motion designer
 * ✉️  You can contact me at [christian@digtihings.no](mailto:christian@digtihings.no)
 * 🚀  I'm currently working on a new site for [Inflow Media](http://dev.vookal.no/inflow-v2)
 * 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on digital projects
+* 🤝  I'm open to collaborating on websites and motion design
 
 ### Skills  
 
