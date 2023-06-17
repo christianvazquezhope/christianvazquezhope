@@ -3,6 +3,12 @@ Hi 👋 My name is Christian V. Hope
 Digital designer and motion designer
 ------------------------------------
 
+I've worked as a digital designer and motion designer at various agencies for the past 10 years. The past year I've also studied Front-End Development at Noroff School of Technology and Media.
+
+My passion is creating great experiences on screen, whether it's a simple website or a more complicated project involving Javascript, API calls and animation.
+
+I'm available for a chat anytime, so don't hesitate to contact me.
+
 * 🌍  I'm based in Oslo
 * 🖥️  See my portfolio at [cvh-portfolio.netlify.com](http://cvh-portfolio.netlify.com)
 * ✉️  You can contact me at [christian@digtihings.no](mailto:christian@digtihings.no)
